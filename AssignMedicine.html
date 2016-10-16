@@ -1,0 +1,233 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Login</title>
+<style type="text/css">
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+</style></head>
+
+<body>
+<div class="container">
+  <div id="header" align="center" class="content"><br>
+  	<h1>ระบบเตือนรับประทานยาผู้ป่วยความดันโลหิตสูง</h1>	
+    </div>
+    <div>				    
+  	 <button type="button">ข้อมูลผู้ป่วย</button> 
+     <button type="button">ยาที่ผู้ป่วยรับประทาน</button>
+  	 <button type="button">ประวิติการรับประทานยา</button>
+  	 <p><br>
+      </p>
+  	 <p>ยาที่ผู้ป่วยรับประทาน<br>
+      </p>
+  	 <form>
+       <h4>&nbsp;</h4>
+		  <table>
+		    <colgroup>
+		      <col span="6" style="background-color:grey" />
+		      <col style="background-color:grey" />
+	        </colgroup>
+		    <tr>
+              <td width="45">ยา1:</td>
+              <td width="174">
+              	<select name="select">
+  			      <option value="diuretics">Diuretics</option>
+  			      <option value="calciumchannelblocker">Calcium channel blocker</option>
+  			      <option value="vasodilators">Vasodulators</option>
+  			      <option value="aceis">ACEIs</option>
+  			      <option value="alphablocker">Alpha blocker</option>
+  			      <option value="centrallyacting">Centrally acting</option>
+	          	</select>
+              </td>
+              <td width="62">&nbsp;</td> 
+              <td colspan="2">รับประทานครั้งละ
+                <select name="select2">
+                  <option value="1/2">1/2</option>
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+              	</select></td>
+              <td width="173">เตือนทุกๆ
+                <select name="select3">
+                  <option value="1">1นาที</option>
+                  <option value="5">5นาที</option>
+                  <option value="10">10นาที</option>
+              </select></td>
+	        </tr>
+		    <tr>
+		      <td>&nbsp;</td>
+		      <td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td colspan="2">วันเริ่มรับประทาน
+  			  <select d="month_start" name="month_start">
+    			<option>มกราคม</option>
+                <option>กุมภาพันธ์</option>
+                <option>มีนาคม</option>
+                <option>April</option>
+                <option>May</option>
+                <option>June</option>
+                <option>July</option>
+                <option>August</option>
+                <option>September</option>
+                <option>October</option>
+                <option>November</option>
+                <option>December</option>
+              </select>
+		- </td>
+          <td>&nbsp;</td>
+        </tr>
+	    <tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+	      <td>&nbsp;</td>
+          <td colspan="2">วันสุดท้ายที่รับประทาน</td>
+          <td>&nbsp;</td>
+	    </tr>  
+		<tr>
+	      <td>เช้า :</td>
+	      <td><input type="checkbox" name="vehicle1" value="Bike" />
+		       ไม่รับประทาน<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+  			   ทานก่อนอาหาร<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+			   ทานหลังอาหาร </td>
+		  <td>เที่ยง: </td>
+          <td width="280"><input type="checkbox" name="vehicle1" value="Bike" />
+		       ไม่รับประทาน<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+  			   ทานก่อนอาหาร<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+			   ทานหลังอาหาร </td>
+		  <td width="49">เย็น: </td>
+          <td><input type="checkbox" name="vehicle1" value="Bike" />
+		       ไม่รับประทาน<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+  			   ทานก่อนอาหาร<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+			   ทานหลังอาหาร </td>
+
+	        </tr> 
+            <tr>
+            <td colspan="2">ผลข้างเคียงของยา
+            </td>
+            <td colspan="3">
+            </td>
+            <td><button type="button">จัดเก็บข้อมูล</button> 
+            </td>
+            </tr>           
+	    </table>
+     	</form> 
+     	<br><br><br>
+           	  <form>
+		  <h4>&nbsp;</h4>
+		  <table>
+		    <colgroup>
+		      <col span="6" style="background-color:grey" />
+		      <col style="background-color:grey" />
+	        </colgroup>
+		    <tr>
+              <td width="45">ยา2:</td>
+              <td width="174">
+              	<select name="select">
+  			      <option value="diuretics">Diuretics</option>
+  			      <option value="calciumchannelblocker">Calcium channel blocker</option>
+  			      <option value="vasodilators">Vasodulators</option>
+  			      <option value="aceis">ACEIs</option>
+  			      <option value="alphablocker">Alpha blocker</option>
+  			      <option value="centrallyacting">Centrally acting</option>
+	          	</select>
+              </td>
+              <td width="62">&nbsp;</td> 
+              <td colspan="2">รับประทานครั้งละ
+                <select name="select2">
+                  <option value="1/2">1/2</option>
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+              	</select></td>
+              <td width="173">เตือนทุกๆ
+                <select name="select3">
+                  <option value="1">1นาที</option>
+                  <option value="5">5นาที</option>
+                  <option value="10">10นาที</option>
+              </select></td>
+	        </tr>
+		    <tr>
+		      <td>&nbsp;</td>
+		      <td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td colspan="2">วันเริ่มรับประทาน
+  			  <select d="month_start" name="month_start">
+    			<option>มกราคม</option>
+                <option>กุมภาพันธ์</option>
+                <option>มีนาคม</option>
+                <option>April</option>
+                <option>May</option>
+                <option>June</option>
+                <option>July</option>
+                <option>August</option>
+                <option>September</option>
+                <option>October</option>
+                <option>November</option>
+                <option>December</option>
+              </select>
+		- </td>
+          <td>&nbsp;</td>
+        </tr>
+	    <tr>
+		  <td>&nbsp;</td>
+		  <td>&nbsp;</td>
+	      <td>&nbsp;</td>
+          <td colspan="2">วันสุดท้ายที่รับประทาน</td>
+          <td>&nbsp;</td>
+	    </tr>  
+		<tr>
+	      <td>เช้า :</td>
+	      <td><input type="checkbox" name="vehicle1" value="Bike" />
+		       ไม่รับประทาน<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+  			   ทานก่อนอาหาร<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+			   ทานหลังอาหาร </td>
+		  <td>เที่ยง: </td>
+          <td width="280"><input type="checkbox" name="vehicle1" value="Bike" />
+		       ไม่รับประทาน<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+  			   ทานก่อนอาหาร<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+			   ทานหลังอาหาร </td>
+		  <td width="49">เย็น: </td>
+          <td><input type="checkbox" name="vehicle1" value="Bike" />
+		       ไม่รับประทาน<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+  			   ทานก่อนอาหาร<br />
+			  <input type="checkbox" name="vehicle2" value="Car" />
+			   ทานหลังอาหาร </td>
+
+	        </tr> 
+            <tr>
+            <td colspan="2">ผลข้างเคียงของยา
+            </td>
+            <td colspan="3">
+            </td>
+            <td><button type="button">จัดเก็บข้อมูล</button> 
+            </td>
+            </tr>               
+	    </table>
+     	</form> 
+     	<br><br><br>
+  </div>
+</div>
+</body>
+</html>

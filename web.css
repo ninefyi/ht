@@ -1,0 +1,48 @@
+body {
+    font-family:  Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+ul, ol, dl {
+    padding: 0;
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+    padding-right: 15px;
+    padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+}
+a img {
+    border: none;
+}
+a:link {
+    color: black;
+    text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+    color: black;
+    text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+    text-decoration: none;
+}
+.container {
+    margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+}
+.content {
+    padding: 10px 0;
+}
+#header {
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+th, button{
+    font-size:18px;
+}
+.square {
+    border:1px solid black;
+}
+
