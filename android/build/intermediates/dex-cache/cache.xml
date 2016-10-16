@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3c796c7ec8b69a2660fab1082e88f9abd7de4edf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_6a9a3a626c8ed98ccd89afdb4b6b31c6fa6357e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/Hypertension/microgear/unspecified/jars/libs/BASE64Decoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ce82c44dff33530a6399041e5bea62f2a679452">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/8/BASE64Decoder_40188dfeab769b63341a7cc53c4cef944a8415bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_af55a0fbd3fbe7e62696979fbc4f13e708ab1d1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c40dcf96e264fcb2314d0279ed92c69478d8fafe">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_98f29d9db6a2347c634c6ac06b794b37fe4fc207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_cb17ee1ce5b79e0ddf9091b25788bad1ede63122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_416a8b320d7ec71730d4ede09b07dff2826b2f8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_af6e3dddf87ec17b725cc7af7b62a8a9c09edcd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_90ee8a934dd498db8d58a98ea3f7b71c6a02ec89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_5575b8a2e5608b937587e6cfb3ff70dbdeb0e680/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/Hypertension/microgear/unspecified/jars/libs/org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3a0d4d7493bf9cee83f80276b08d955adf31d5">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/8/org.eclipse.paho.client.mqttv3-1.0.2_ef52d3c26f5be43cde27ad9e2972eca66f4d362c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="06c6fb643e00696c7146f30c63a4ac0abebcd178">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df2a78eca6939a83aec1153a013ae5f44d964b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_1bcce5fc5709925c57b56af19f6c14628c0302ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_bc94bb3e3bd19bd1992ee3a839244639884d4965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_80d4c3b4084106035c92a6e0a215575abdae82e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_3c639968378725f629b52f9cac2bc6a374b3eb68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/Documents/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_38696f65c4ab5511945660edc46333dc06ce745f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_47d2151456a81726c218534dc9ad3ad7fc534697/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_dd3662e3ba14dfe739a738b243983a05ad704371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_6ba2dc3b4978b5028770d9b8c3a800c91fedd354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/pitichampeethong/AndroidProject/Hypertension/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_1a5c47096738a52ae60e42446d0a7bc344e2ac42/classes.dex" />
+    </item>
+
+</items>
